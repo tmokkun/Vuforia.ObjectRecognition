@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rubik1.unity
+  isLoaded: 1
+  isActive: 1
